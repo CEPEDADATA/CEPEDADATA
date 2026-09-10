@@ -16,7 +16,7 @@
   <a href="https://wa.me/573218292766" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <a href="https://github.com/adriancamilo2002">
+  <a href="https://github.com/CEPEDADATA">
     <img src="https://img.shields.io/badge/Portafolio_Web-00FF9D?style=for-the-badge&logo=google-chrome&logoColor=0B0F19" alt="Portfolio" />
   </a>
 </p>
@@ -104,12 +104,12 @@
 ### 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adriancamilo2002&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF9D&icon_color=00FF9D&text_color=A0AEC0&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriancamilo2002&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF9D&text_color=A0AEC0&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CEPEDADATA&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF9D&icon_color=00FF9D&text_color=A0AEC0&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CEPEDADATA&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF9D&text_color=A0AEC0&bg_color=0D1117" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adriancamilo2002&theme=tokyonight&hide_border=true&stroke=00FF9D&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D&background=0D1117" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CEPEDADATA&theme=tokyonight&hide_border=true&stroke=00FF9D&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D&background=0D1117" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
@@ -118,3 +118,4 @@
   <i>"Transformando datos complejos en decisiones estratégicas a través de las matemáticas y la ingeniería de software."</i><br>
   📍 <b>Bogotá D.C., Colombia</b> · Abierto a oportunidades y colaboraciones.
 </p>
+
