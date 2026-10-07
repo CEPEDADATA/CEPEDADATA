@@ -25,7 +25,7 @@
 
 ### 🚀 Sobre Mí
 
-- 🎓 **Formación Académica**: Matemático egresado de la **Universidad Pedagógica y Tecnológica de Colombia (UPTC)** con estancia académica en la **Universidad Nacional del Litoral (UNL, Argentina)**.
+- 🎓 **Formación Académica**: Matemático de la **Universidad Pedagógica y Tecnológica de Colombia (UPTC)** con estancia académica en la **Universidad Nacional del Litoral (UNL, Argentina)**.
 - 💼 **Perfil Profesional**: Combino el rigor del modelado matemático y cuantitativo con el desarrollo de software y arquitecturas de datos.
 - ⚡ **Experiencia Clave**:
   - Diseño e implementación de pipelines **ETL / ELT** y automatizaciones complejas de extremo a extremo (**n8n**, APIs REST, Webhooks).
